@@ -1,7 +1,4 @@
-# command-line-helpers
-Command line helpers - for cmd and bash
-----------------------
-
+# command-line-helpers - for cmd and bash
 
 
 ##### uninstall all node dependencies from project dir
